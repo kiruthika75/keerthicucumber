@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-28T21:57:41 GMT-08:00" name="Default suite" finished-at="2023-02-28T21:57:41 GMT-08:00" duration-ms="103">
+    <groups>
+    </groups>
+    <test started-at="2023-02-28T21:57:41 GMT-08:00" name="Default test" finished-at="2023-02-28T21:57:41 GMT-08:00" duration-ms="103">
+      <class name="TestNG.Bank">
+        <test-method is-config="true" signature="Age()[pri:0, instance:TestNG.Bank@201a4587]" started-at="2023-02-28T21:57:41 GMT-08:00" name="Age" finished-at="2023-02-28T21:57:41 GMT-08:00" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Age -->
+        <test-method signature="createAccount()[pri:1, instance:TestNG.Bank@201a4587]" started-at="2023-02-28T21:57:41 GMT-08:00" name="createAccount" finished-at="2023-02-28T21:57:41 GMT-08:00" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="Deposite()[pri:2, instance:TestNG.Bank@201a4587]" started-at="2023-02-28T21:57:41 GMT-08:00" name="Deposite" finished-at="2023-02-28T21:57:41 GMT-08:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deposite -->
+        <test-method signature="getPassBook()[pri:3, instance:TestNG.Bank@201a4587]" started-at="2023-02-28T21:57:41 GMT-08:00" name="getPassBook" finished-at="2023-02-28T21:57:41 GMT-08:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPassBook -->
+        <test-method signature="applyATM()[pri:4, instance:TestNG.Bank@201a4587]" started-at="2023-02-28T21:57:41 GMT-08:00" name="applyATM" finished-at="2023-02-28T21:57:41 GMT-08:00" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyATM -->
+        <test-method signature="Withdraw()[pri:5, instance:TestNG.Bank@201a4587]" started-at="2023-02-28T21:57:41 GMT-08:00" name="Withdraw" finished-at="2023-02-28T21:57:41 GMT-08:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Withdraw -->
+      </class> <!-- TestNG.Bank -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
